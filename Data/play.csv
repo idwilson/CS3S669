@@ -1,0 +1,15 @@
+Spouse,Temperature,Due,Peer,Play
+Away,Hot,Close,Strong,TRUE
+Away,Cool,Distant,Weak,TRUE
+Away,Mild,Close,Weak,TRUE
+Away,Hot,Distant,Strong,TRUE
+Busy,Mild,Close,Strong,TRUE
+Busy,Cool,Distant,Strong,TRUE
+Busy,Cool,Distant,Weak,FALSE
+Busy,Mild,Distant,Strong,TRUE
+Busy,Mild,Close,Weak,FALSE
+Home,Hot,Close,Strong,FALSE
+Home,Hot,Close,Weak,FALSE
+Home,Mild,Close,Strong,FALSE
+Home,Cool,Distant,Strong,TRUE
+Home,Mild,Distant,Weak,TRUE
